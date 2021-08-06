@@ -1,0 +1,3 @@
+Answers Day 1 Assignment:
+1)T(n) = O(n)
+2)321123
